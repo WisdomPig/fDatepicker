@@ -1,0 +1,9 @@
+.fDatepicker {width: 280px;overflow: hidden;background-color: #ddd;border: 1px solid #666;text-align: center;}
+.week {float: left;width: 40px;color: #333;border-bottom: 1px solid #666;}
+.fDatepicker a, .day {float: left;width: 38px;height: 20px;line-height: 20px;color: #555;background-color: #fff;border: 1px solid #666;}
+a.current {color: #000;background-color: green;}
+.ybn {color:#000;}
+.mbn {color:#000040;}
+.weekend {color:#f00!important;}
+a.day:hover{background:#99C3F6;}
+.fDatepicker span {cursor: pointer;}
